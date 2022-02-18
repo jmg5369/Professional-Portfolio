@@ -1,0 +1,135 @@
+header{
+    background-color: aqua;    
+    position:relative;
+    width: 99vw;
+    height: 10vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    background-color: gray;
+    font-family: 'Times New Roman', Times, serif;
+    padding-right: 1%;
+}
+nav a {
+    padding-right: 1%;
+    text-decoration: none;
+    color: white;
+    padding-top: 3%;
+
+}
+
+nav a:hover{
+    color: red;
+}
+
+
+main{
+    background-color: bisque;
+}
+
+footer{
+    background-color: blue;
+}
+
+.section-row {
+
+}
+
+.section-heading {
+
+}
+
+.main-work-card {
+    border: 1px solid black;
+    margin: 10px;
+    height: 100px;
+    width: 20%;
+
+}
+
+.sub-card-title {
+    height: 40px;
+
+}
+
+.work-card {
+    border: 1px solid black;
+    margin: 10px;
+    height: 100px;
+    width: 20%;
+}
+
+.work-card:hover {
+    box-shadow: 20px 20px 10px red;
+}
+
+
+h3 {
+    background-color: black;
+    color: white;
+    padding: 10px;
+    margin: 10px auto;
+    height: 25px;
+    margin-right: 40%;
+
+}
+
+.name {
+    color: deepskyblue;
+ 
+}
+
+#content {
+    color: brown;
+}
+
+#content:hover {
+    color: orange;
+}
+.photo{
+    width: 500px;
+    height: auto;
+}
+
+#about-me {
+
+}
+
+#image2 {
+    border: 1px solid black;
+    margin: 10px auto;
+    background-image: url(https://images.unsplash.com/photo-1644396256035-34c1c1570596?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1365&q=80);
+    background-size: cover;
+    background-position: center;
+    box-shadow: 10px 10px 5px grey;
+
+}
+
+#image3 {
+    border: 1px solid black;
+    margin: 10px auto;
+    background-image: url(https://images.unsplash.com/photo-1644433441297-66f97625a279?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2826&q=80);
+    background-size: cover;
+    background-position: center;
+    box-shadow: 10px 10px 5px grey;
+
+}
+
+#image4 {
+    border: 1px solid black;
+    margin: 10px auto;
+    background-image: url(https://images.unsplash.com/photo-1644351032803-9c6f42458ea7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2742&q=80);
+    background-size: cover;
+    background-position: center;
+    box-shadow: 10px 10px 5px grey;
+}
+
+#image5 {
+    border: 1px solid black;
+    margin: 10px auto;
+    background-image: url(https://images.unsplash.com/photo-1644371972225-4917efaa3958?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2670&q=80);
+    background-size: cover;
+    background-position: center;
+    box-shadow: 10px 10px 5px grey;
+    
+}
