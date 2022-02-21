@@ -32,6 +32,10 @@ footer{
 }
 
 .section-row {
+    display: block;
+flex-direction: column;
+justify-content: center;
+padding-bottom: 2%;
 
 }
 
@@ -76,6 +80,7 @@ h3 {
 
 .name {
     color: deepskyblue;
+
  
 }
 
